@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ANKITPANT1999
-- 👀 I’m interested in DATA SCIENCE AND DATA VISUALIZATION
+- 👀 I’m interested in DATA SCIENCE, BUSINESS ANALYST AND DATA VISUALIZATION
 - 🌱 I’m currently learning MACHINE LEARNING
 - 📫 How to reach me Mail me at ankitpant1110@gmail.com
 .
